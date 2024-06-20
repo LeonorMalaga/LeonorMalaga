@@ -39,7 +39,7 @@ Software Developer | Backend .JAVA
 <p align= "left"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/fix/Users-leonor-LeonorMalaga/icons/tool-svgrepo-com.svg" width="36" height="36" alt="Problem_Solving" />   Problem Solving 
 <img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/fix/Users-leonor-LeonorMalaga/icons/team-group-svgrepo-com.svg" width="36" height="36" alt="Team_Work" />   Teamwork </p>
                     
-### Socials  
+## Socials  
 <p align="left">
 <a href="https://www.github.com/LeonorMalaga" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/fix/Users-leonor-LeonorMalaga/icons/github-octocat-svgrepo-com.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/enleonormartinezmesas/" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/main/icons/linkedin.svg" width="32" height="32" /></a>
