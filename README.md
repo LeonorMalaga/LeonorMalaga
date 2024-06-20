@@ -10,7 +10,7 @@ Software Developer | Backend .JAVA
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/main/icons/git-colored.svg" width="36" height="36" alt="Git" /></a> GIT
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/fix/Users-leonor-LeonorMalaga/icons/postman-icon-svgrepo-com.svg" width="36" height="36" alt="Postman" /> </a>Postman
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/fix/Users-leonor-LeonorMalaga/icons/postman-icon-svgrepo-com.svg" width="36" height="36" alt="Postman" /></a>Postman
 
 ### BACKEND
 <p align="left">
@@ -27,6 +27,19 @@ Software Developer | Backend .JAVA
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/main/icons/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> HTML5
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/main/icons/react-colored.svg" width="36" height="36" alt="React" /></a> React
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/main/icons/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> CSS3
+</p>
+
+## SYSTEMS
+
+<p align="left">
+<a><src="https://github.com/LeonorMalaga/LeonorMalaga/blob/main/icons/linux.svg" width="36" height="36" alt="LINUX"></a> LINUX
+<a><src="https://github.com/LeonorMalaga/LeonorMalaga/blob/main/icons/Promox.png" width="36" height="36" alt="LINUX"></a> PROMOX
+<a><src="https://github.com/LeonorMalaga/LeonorMalaga/blob/main/icons/Promox.png" width="36" height="36" alt="LINUX"></a> ANSIBLE
+
+
+## USER LEVEL
+
+
 </p>
 
 ## SOFT SKILLS
