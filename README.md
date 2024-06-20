@@ -31,14 +31,10 @@ Software Developer | Backend .JAVA
 
 ## POSTS
 <a href="https://www.notion.so/Back-end-73b4d735bac24b139022e4679323685b?pm=c" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/LeonorMalaga/LeonorMalaga/main/icons/220px-Notion-logo.svg.webp" width="36" height="36" alt="NOTION" />Port</a> 
-<a href="https://gratis-4112132.webador.es/" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/fix/Users-leonor-LeonorMalaga/icons/web-select-svgrepo-com.svg" width="36" height="36" alt="NOTION" />About me - no code web</a> 
-
+<a href="https://gratis-4112132.webador.es/" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/fix/Users-leonor-LeonorMalaga/icons/web-select-svgrepo-com.svg" width="36" height="36" alt="ABOUT_ME" />About me - no code web</a>
 
 ## SOFT SKILLS
 
 <p align= "left"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/fix/Users-leonor-LeonorMalaga/icons/tool-svgrepo-com.svg" width="36" height="36" alt="Problem_Solving" />   Problem Solving 
 <img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/fix/Users-leonor-LeonorMalaga/icons/team-group-svgrepo-com.svg" width="36" height="36" alt="Team_Work" />   Teamwork </p>
 
-## POSTS
-<a href="https://www.notion.so/Back-end-73b4d735bac24b139022e4679323685b?pm=c" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/LeonorMalaga/LeonorMalaga/main/icons/220px-Notion-logo.svg.webp" width="36" height="36" alt="NOTION" />Port</a> 
-<a href="https://gratis-4112132.webador.es/" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/fix/Users-leonor-LeonorMalaga/icons/web-select-svgrepo-com.svg" width="36" height="36" alt="NOTION" />About me - no code web</a> 
