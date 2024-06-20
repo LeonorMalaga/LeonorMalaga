@@ -10,7 +10,7 @@ Software Developer | Backend .JAVA
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/main/icons/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/main/icons/postman-svgrepo-com.svg" width="160" height="60" alt="Postman" /></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/fix/Users-leonor-LeonorMalaga/icons/postman-icon-svgrepo-com.svg" width="36" height="36" alt="Postman" /></a>
 
 ## BACKEND
 <p align="left">
