@@ -6,6 +6,9 @@ Software Developer | Backend .JAVA
 
 *   ✉️  You can contact me at [leonormartinezmesas@gmail.com](mailto:leonormartinezmesas@gmail.com)
 
+## Posts
+<a href="https://www.notion.so/Back-end-73b4d735bac24b139022e4679323685b?pm=c" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/LeonorMalaga/LeonorMalaga/main/icons/220px-Notion-logo.svg.webp" width="36" height="36" alt="NOTION" />Port</a> 
+<a href="https://gratis-4112132.webador.es/" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/fix/Users-leonor-LeonorMalaga/icons/web-select-svgrepo-com.svg" width="36" height="36" alt="NOTION" />About me - no code web</a> 
 ### PROGRAMMING
 
 <p align="left">
@@ -29,17 +32,12 @@ Software Developer | Backend .JAVA
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/main/icons/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> CSS3
 </p>
 
-### Posts
-<a href="https://www.notion.so/Back-end-73b4d735bac24b139022e4679323685b?pm=c" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/LeonorMalaga/LeonorMalaga/main/icons/220px-Notion-logo.svg.webp" width="36" height="36" alt="NOTION" />Port</a> 
-<a href="https://gratis-4112132.webador.es/" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/fix/Users-leonor-LeonorMalaga/icons/web-select-svgrepo-com.svg" width="36" height="36" alt="NOTION" />About me - no code web</a> 
-
-
 ### SOFT SKILLS
 
 <p align= "left"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/fix/Users-leonor-LeonorMalaga/icons/tool-svgrepo-com.svg" width="36" height="36" alt="Problem_Solving" />   Problem Solving 
 <img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/fix/Users-leonor-LeonorMalaga/icons/team-group-svgrepo-com.svg" width="36" height="36" alt="Team_Work" />   Teamwork </p>
                     
-## Socials  
+## SOCIALS 
 <p align="left">
 <a href="https://www.github.com/LeonorMalaga" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/fix/Users-leonor-LeonorMalaga/icons/github-octocat-svgrepo-com.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/enleonormartinezmesas/" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/main/icons/linkedin.svg" width="32" height="32" /></a>
