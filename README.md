@@ -35,7 +35,7 @@ Software Developer | Backend .JAVA
                     
 ### Socials  
 <p align="left">
-<a href="https://www.github.com/LeonorMalaga" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/LeonorMalaga/LeonorMalaga/icons/github-dark.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/LeonorMalaga" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/main/icons/github-octocat-svgrepo-com.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/maadcode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 </p>
