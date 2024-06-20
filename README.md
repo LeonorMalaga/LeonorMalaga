@@ -10,7 +10,7 @@ Software Developer | Backend .JAVA
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/main/icons/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/main/icons/postman-svgrepo-com.svg" width="60" height="36" alt="Postman" /></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/main/icons/postman-svgrepo-com.svg" width="60" height="60" alt="Postman" /></a>
 
 ## BACKEND
 <p align="left">
@@ -39,7 +39,7 @@ Software Developer | Backend .JAVA
                     
 ### Socials  
 <p align="left">
-<a href="https://www.github.com/LeonorMalaga" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/main/icons/github-octocat-svgrepo" width="32" height="32" /></a>
+<a href="https://www.github.com/LeonorMalaga" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/fix/Users-leonor-LeonorMalaga/icons/github-octocat-svgrepo-com.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/enleonormartinezmesas/" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/main/icons/linkedin.svg" width="32" height="32" /></a>
 
 </p>
