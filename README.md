@@ -31,7 +31,7 @@ Software Developer | Backend .JAVA
 
 ### Posts
 <a href="https://www.notion.so/Back-end-73b4d735bac24b139022e4679323685b?pm=c" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/LeonorMalaga/LeonorMalaga/main/icons/220px-Notion-logo.svg.webp" width="36" height="36" alt="NOTION" />Port</a> 
-<na href="https://gratis-4112132.webador.es/" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/fix/Users-leonor-LeonorMalaga/icons/web-select-svgrepo-com.svg" width="36" height="36" alt="NOTION" />About me - no code web</a> 
+<a href="https://gratis-4112132.webador.es/" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/fix/Users-leonor-LeonorMalaga/icons/web-select-svgrepo-com.svg" width="36" height="36" alt="NOTION" />About me - no code web</a> 
 
 
 ### SOFT SKILLS
