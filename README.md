@@ -34,8 +34,8 @@ Software Developer | Backend .JAVA
 
 ### SOFT SKILLS
 
-<p align= "left"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/fix/Users-leonor-LeonorMalaga/icons/tool-svgrepo-com.svg" width="36" height="36" alt="Problem_Solving" />   Problem Solving </p>
-<p align= "left"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/fix/Users-leonor-LeonorMalaga/icons/team-group-svgrepo-com.svg" width="36" height="36" alt="Team_Work" />   Teamwork </p>
+<p align= "left"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/fix/Users-leonor-LeonorMalaga/icons/tool-svgrepo-com.svg" width="36" height="36" alt="Problem_Solving" />   Problem Solving 
+<img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/fix/Users-leonor-LeonorMalaga/icons/team-group-svgrepo-com.svg" width="36" height="36" alt="Team_Work" />   Teamwork </p>
                     
 ### Socials  
 <p align="left">
