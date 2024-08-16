@@ -27,7 +27,7 @@ Software Developer | Backend .JAVA
 <p aling="left">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/main/icons/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> Mysql
 <a href="http>s://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/main/icons/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>PostgreSQL
-<a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/main/icons/microsoft-sql-server-logo.svg" width="45" height="45" alt="SQLServer" /></a> SQLServer
+<a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/main/icons/microsoft-sql-server-logo.svg" width="36" height="36" alt="SQLServer" /></a> SQLServer
 </p>
 
 ### FRONT
