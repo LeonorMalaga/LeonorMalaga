@@ -12,7 +12,7 @@ Software Developer | Backend .JAVA
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/main/icons/git-colored.svg" width="36" height="36" alt="Git" /></a> GIT
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/fix/Users-leonor-LeonorMalaga/icons/postman-icon-svgrepo-com.svg" width="36" height="36" alt="Postman" /> </a>Postman
-<a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/fix/Users-leonor-LeonorMalaga/icons/vs-code.svg" width="36" height="36" alt="VisualEstudio" /> </a>Vs-Code
+<a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/main/icons/vs-code.svg" width="36" height="36" alt="VisualEstudio" /> </a>Vs-Code
 <a href="https://www.jetbrains.com/help/idea/getting-started.html" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/main/icons/intellij-idea.svg" width="36" height="36" alt="intelliJ" /> </a>intelliJ Idea
 <a href="https://confluence.atlassian.com/jiracoreserver073/jira-core-overview-861255604.html" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/main/icons/atlassian.svg" width="36" height="36" alt="Jira" /> </a>Jira
 
@@ -27,7 +27,7 @@ Software Developer | Backend .JAVA
 <p aling="left">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/main/icons/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> Mysql
 <a href="http>s://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/main/icons/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>PostgreSQL
-<a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/main/icons/microsoft-sql-server-logo.svg" width="39" height="39" alt="SQLServer" /></a> SQLServer
+<a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank" rel="noreferrer"><img src="https://github.com/LeonorMalaga/LeonorMalaga/blob/main/icons/microsoft-sql-server-logo.svg" width="45" height="45" alt="SQLServer" /></a> SQLServer
 </p>
 
 ### FRONT
