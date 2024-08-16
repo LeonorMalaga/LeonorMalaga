@@ -5,7 +5,8 @@ Software Developer | Backend .JAVA
 ------------------------------------------------
 
 *   ✉️  You can contact me at [leonormartinezmesas@gmail.com](mailto:leonormartinezmesas@gmail.com)
-* [English resume](https://github.com/LeonorMalaga/LeonorMalaga/blob/main/leonoMartinezMesas_en_links-1p.pdf),[Spanish resume](https://github.com/LeonorMalaga/LeonorMalaga/blob/main/leonoMartinezMesas_es_links-1p.pdf)
+* [English resume](https://github.com/LeonorMalaga/LeonorMalaga/blob/main/leonoMartinezMesas_en-1p.pdf)
+* [Spanish resume](https://github.com/LeonorMalaga/LeonorMalaga/blob/main/leonoMartinezMesas_es_links-1p.pdf)
 
 ![V1-Elementos en cada Vista](documentacion_es/ElementosVistas%20V1.jpg)
 ## PROGRAMMING
